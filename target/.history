@@ -1,0 +1,12 @@
+run
+cd
+cd HelloWorld
+run
+compile
+clean
+exit
+run
+exit
+run
+exit
+run
